@@ -7,6 +7,6 @@
   <title>GitTest</title>
 </head>
 <body>
-  
+<?=$_SERVER['DOCUMENT_ROOT']?>
 </body>
 </html>
